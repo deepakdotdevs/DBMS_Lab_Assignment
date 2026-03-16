@@ -2,8 +2,8 @@
 Program: B.Tech CSE
 Semester: IV
 Session: 2025–26 Even
-Student Name: Sahdev Sharma
-Roll No: 2401010092
+Student Name: Deepak
+Roll No: 2401010085
 
 📌 About This Repository
 This repository contains all the practical lab sheets and SQL implementations for the Database Management Systems Lab course.
